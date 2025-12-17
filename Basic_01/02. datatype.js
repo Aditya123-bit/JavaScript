@@ -16,4 +16,6 @@ let state = null
 // boolean => true/false
 //null => standalone value
 //undefined =>
-// symbol 
+// symbol => unique
+
+console.log(typeof undefined)
