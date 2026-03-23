@@ -23,7 +23,7 @@
 // console.log(Math.pow(2,3))
 // console.log(Math.sqrt(144))
 
-// console.log(Math.floor(Math.random()*10)+ 1)
+console.log(Math.floor(Math.random()*10)+1)
 
 const min = 10
 const max = 20
