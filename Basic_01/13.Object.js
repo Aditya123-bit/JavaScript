@@ -21,3 +21,9 @@ Object.freeze(JsUser)
 JsUser.email = "adityakumar@gmail.com"
 
 console.log(JsUser)
+
+JsUser.greeting = function(){
+    console.log("Hello JS user")
+}
+
+console.log(Js)
